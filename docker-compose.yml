@@ -1,0 +1,28 @@
+services:
+  web:
+    image: golden-visa-advisory:prod
+    ports:
+      - target: 3000
+    environment:
+      - NODE_ENV=production
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://127.0.0.1:3000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    deploy:
+      mode: replicated
+      replicas: 2
+      labels:
+        - "traefik.enable=true"
+        - "traefik.http.routers.goldenvisa.rule=Host(`goldenvisa.paragu-ai.com`)"
+        - "traefik.http.routers.goldenvisa.entrypoints=websecure"
+        - "traefik.http.routers.goldenvisa.tls.certresolver=letsencrypt"
+        - "traefik.http.services.goldenvisa.loadbalancer.server.port=3000"
+        - "traefik.docker.network=agent-net"
+    networks:
+      - agent-net
+
+networks:
+  agent-net:
+    external: true

@@ -1,0 +1,343 @@
+{
+  "site": {
+    "name": "Golden Visa Advisory",
+    "tagline": "Your Gateway to Paraguayan Residency Through the Right Investment",
+    "taglineEs": "Tu puerta a la residencia paraguaya a través de la inversión adecuada",
+    "taglinePt": "Sua porta de entrada para a residência paraguaia através do investimento certo"
+  },
+  "programs": {
+    "temporaryResidency": {
+      "name": "Temporary Residency",
+      "nameEs": "Residencia Temporaria",
+      "namePt": "Residência Temporária",
+      "type": "Temporary (2 years)",
+      "typeEs": "Temporaria (2 años)",
+      "typePt": "Temporária (2 anos)",
+      "investment": "Proof of income / solvency",
+      "investmentEs": "Prueba de ingresos / solvencia",
+      "investmentPt": "Comprovante de renda / solvência",
+      "jobCreation": "None",
+      "presence": "No strict minimum (cannot be absent 12+ months)",
+      "presenceEs": "Sin mínimo estricto (no ausentarse 12+ meses)",
+      "presencePt": "Sem mínimo rigoroso (não se ausentar 12+ meses)",
+      "citizenship": "2yr temp → permanent → 3yr → citizenship",
+      "citizenshipEs": "2 años temp → permanente → 3 años → ciudadanía",
+      "citizenshipPt": "2 anos temp → permanente → 3 anos → cidadania",
+      "processing": "60–90 days",
+      "processingEs": "60–90 días",
+      "bestFor": "Budget-conscious, income-based applicants",
+      "bestForEs": "Solicitantes con presupuesto ajustado, basados en ingresos"
+    },
+    "suace": {
+      "name": "SUACE Program",
+      "type": "Immediate Permanent",
+      "typeEs": "Permanente Inmediata",
+      "investment": "$70,000 (over 10 years) / $40,000 Film Production Contribution",
+      "investmentEs": "$70,000 (en 10 años) / $40,000 Aporte a Producción Cinematográfica",
+      "jobCreation": "5 local employees",
+      "jobCreationEs": "5 empleados locales",
+      "presence": "No strict minimum",
+      "presenceEs": "Sin mínimo estricto",
+      "citizenship": "Direct → 3 years → citizenship",
+      "citizenshipEs": "Directo → 3 años → ciudadanía",
+      "processing": "90 days – 6 months",
+      "processingEs": "90 días – 6 meses",
+      "bestFor": "Entrepreneurs, business investors",
+      "bestForEs": "Emprendedores, inversores de negocio"
+    },
+    "investorPass": {
+      "name": "Investor Pass (NEW)",
+      "type": "Immediate Permanent",
+      "typeEs": "Permanente Inmediata",
+      "investment": "$150,000 (tourism) / $200,000 (real estate or securities)",
+      "investmentEs": "$150,000 (turismo) / $200,000 (inmuebles o valores)",
+      "jobCreation": "None",
+      "presence": "Once every 3 years",
+      "presenceEs": "Una vez cada 3 años",
+      "citizenship": "Direct → 3 years → citizenship",
+      "citizenshipEs": "Directo → 3 años → ciudadanía",
+      "processing": "TBC (newly launched)",
+      "processingEs": "Pendiente (recién lanzado)",
+      "bestFor": "Real estate buyers, passive investors, securities investors",
+      "bestForEs": "Compradores inmobiliarios, inversores pasivos, inversores en valores"
+    }
+  },
+  "languages": [
+    {"code": "en", "name": "English", "flag": "🇬🇧"},
+    {"code": "es", "name": "Español", "flag": "🇪🇸"},
+    {"code": "pt", "name": "Português", "flag": "🇧🇷"},
+    {"code": "fr", "name": "Français", "flag": "🇫🇷"},
+    {"code": "it", "name": "Italiano", "flag": "🇮🇹"},
+    {"code": "de", "name": "Deutsch", "flag": "🇩🇪"},
+    {"code": "nl", "name": "Nederlands", "flag": "🇳🇱"}
+  ],
+  "en": {
+    "entry": {
+      "title": "Welcome to Golden Visa Advisory",
+      "subtitle": "Select your language and purpose",
+      "languageLabel": "Choose your language",
+      "pathLabel": "What brings you here?",
+      "pathResidency": "🛂 I want the Residency",
+      "pathBusiness": "🏢 I'm a Paraguayan Business",
+      "continue": "Continue",
+      "remember": "Remember my choice"
+    },
+    "investor": {
+      "hero": {
+        "title": "Your Gateway to Paraguayan Residency",
+        "subtitle": "Through the Right Investment",
+        "description": "We help foreign investors structure qualifying investments for Paraguayan residency programs — from real estate to securities, with full regulatory compliance.",
+        "cta": "Check Your Eligibility"
+      },
+      "team": {
+        "title": "Who We Are",
+        "description": "A team of international finance, legal, and regulatory experts bridging Paraguayan assets with global capital."
+      },
+      "trackRecord": {
+        "title": "Our Track Record",
+        "projects": "Projects Structured",
+        "capital": "Capital Facilitated",
+        "nationalities": "Nationalities Served",
+        "years": "Years of Experience",
+        "projectsValue": "50+",
+        "capitalValue": "$200M+",
+        "nationalitiesValue": "15+",
+        "yearsValue": "8+"
+      },
+      "testimonials": {
+        "title": "What Our Clients Say",
+        "items": [
+          {
+            "quote": "The team structured a real estate investment that qualified for permanent residency in just 4 months. Professional, transparent, and deeply knowledgeable about Paraguayan regulation.",
+            "name": "Carlos M.",
+            "country": "Brazil",
+            "flag": "🇧🇷"
+          },
+          {
+            "quote": "I was considering Portugal and Panama. After working with this team, Paraguay became the obvious choice — fastest path to citizenship, no minimum stay, and a growing economy.",
+            "name": "Sarah K.",
+            "country": "United States",
+            "flag": "🇺🇸"
+          }
+        ]
+      },
+      "process": {
+        "title": "The Golden Visa Process",
+        "subtitle": "From consultation to citizenship in 5 steps",
+        "steps": [
+          {"step": 1, "title": "Select Your Investment Vehicle", "description": "We analyze your profile and recommend the optimal investment — real estate, securities, or business entrepreneurship."},
+          {"step": 2, "title": "Legal Structuring & Due Diligence", "description": "Our legal team structures the investment vehicle, handles compliance, and prepares all documentation."},
+          {"step": 3, "title": "Submit Your Application", "description": "We file your residency application with the relevant authorities. Processing time: 60–90 days (temporary) or immediate (permanent programs)."},
+          {"step": 4, "title": "Approval & Residency Card", "description": "Once approved, you receive your residency card. No strict minimum stay requirements."},
+          {"step": 5, "title": "Path to Citizenship", "description": "After 3 years of permanent residency, you are eligible to apply for Paraguayan citizenship."}
+        ]
+      },
+      "comparisonTable": {
+        "title": "Choose Your Program",
+        "subtitle": "Paraguay offers multiple residency paths. We help you choose the right one.",
+        "feature": "Feature",
+        "temporaryResidency": "Temporary Residency",
+        "suace": "SUACE Program",
+        "investorPass": "Investor Pass (NEW)",
+        "residencyType": "Residency Type",
+        "investment": "Investment",
+        "jobCreation": "Job Creation",
+        "presence": "Presence Requirement",
+        "citizenship": "Path to Citizenship",
+        "processing": "Processing Time",
+        "bestFor": "Best For"
+      },
+      "successStory": {
+        "title": "Portuguese Success Story",
+        "subtitle": "How Brazilian investors are structuring through Paraguay's new Investor Pass",
+        "description": "With the launch of the Investor Pass, Brazilian investors now have a direct path to permanent Paraguayan residency with a minimum of $150,000 in tourism-related investments or $200,000 in real estate or securities. No minimum stay. No job creation requirements. Citizenship eligible in 3 years.",
+        "cta": "Speak with our Brazil Desk"
+      },
+      "cta": {
+        "title": "Ready to Start Your Journey?",
+        "subtitle": "Schedule a confidential consultation to discuss your residency options.",
+        "cta": "Schedule a Consultation"
+      }
+    },
+    "business": {
+      "hero": {
+        "title": "Turn Your Business Into a Golden Visa Opportunity",
+        "subtitle": "We help Paraguayan companies design, structure, and position investment products for the global Golden Visa market.",
+        "cta": "Book a Discovery Call"
+      },
+      "whatIsGV": {
+        "title": "What Is the Golden Visa Industry?",
+        "description": "The global Golden Visa market represents over $25 billion annually. Countries offer residency or citizenship in exchange for qualified investments — real estate, funds, business creation, or government bonds. Paraguay is uniquely positioned with: the fastest path to citizenship in the Americas (3 years), no minimum stay requirements, Mercosur access to 260M+ consumers, and a business-friendly tax regime.",
+        "stats": [
+          {"value": "$25B+", "label": "Annual global market"},
+          {"value": "3 years", "label": "Fastest citizenship in Americas"},
+          {"value": "0 days", "label": "Minimum stay required"},
+          {"value": "260M+", "label": "Mercosur consumer market"}
+        ]
+      },
+      "services": {
+        "title": "Our Services",
+        "subtitle": "Four pillars to turn your business into a Golden Visa-ready investment",
+        "items": [
+          {"icon": "📚", "title": "Learn the Industry", "description": "We train your team on the Golden Visa ecosystem — investor profiles, due diligence standards, international compliance requirements, and market dynamics."},
+          {"icon": "📊", "title": "Market Analysis", "description": "Identify which investor segments match your asset. Gap analysis vs competitor products. Market sizing, pricing strategy, and channel identification."},
+          {"icon": "🏗️", "title": "Design the Product", "description": "Structure your business offering into a Golden Visa-qualified investment vehicle. Regulatory packaging, minimum investment thresholds, legal wrappers, and timeline planning."},
+          {"icon": "🌍", "title": "Position & Sell", "description": "Pitch decks for international agents. Translation and localization. Listing on partner networks. Matching with pre-qualified investors through our global channel."}
+        ]
+      },
+      "chainOfTrust": {
+        "title": "The Chain of Trust",
+        "subtitle": "How capital flows from global investors to Paraguayan projects",
+        "links": [
+          {"title": "Global Investor", "description": "HNWI seeking residency, diversification, or a second home"},
+          {"title": "Immigration Agent", "description": "Vetted partners who refer qualified investors to our network"},
+          {"title": "Advisory Firm", "description": "We structure, certify, and match — the quality gate"},
+          {"title": "Local Lawyer", "description": "Regulatory filing, compliance, and legal representation"},
+          {"title": "Project Developer", "description": "You — the Paraguayan business with a Golden Visa-ready asset"}
+        ]
+      },
+      "investorProfiles": {
+        "title": "Investor Profiles & Needs",
+        "subtitle": "Know who you're selling to",
+        "items": [
+          {"type": "HNWIs ($1M+)", "needs": "Second residency, asset diversification, tax optimization", "regions": "US, Europe, Middle East"},
+          {"type": "Families", "needs": "Relocation, education, safety, quality of life", "regions": "Brazil, Europe, Asia"},
+          {"type": "Entrepreneurs", "needs": "Mercosur access, regional expansion, lower operating costs", "regions": "Brazil, Argentina, US"},
+          {"type": "Retirees", "needs": "Affordable cost of living, warm climate, healthcare", "regions": "US, Canada, Europe"}
+        ]
+      },
+      "cta": {
+        "title": "Ready to Design Your Golden Visa Product?",
+        "subtitle": "Let's explore how your business can access the global investment migration market.",
+        "cta": "Schedule a Discovery Call"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "forDevelopers": {
+        "title": "For Developers",
+        "items": [
+          {"q": "How can my real estate project qualify?", "a": "Your project must meet minimum investment thresholds ($150K tourism, $200K real estate) and pass due diligence on legal standing, completion timeline, and exit strategy."},
+          {"q": "What minimum investment amounts work?", "a": "For the Investor Pass, $150K in tourism or $200K in real estate/securities. SUACE requires $70K over 10 years with 5 employees hired."},
+          {"q": "How long does structuring take?", "a": "Initial structuring takes 4–8 weeks. This includes legal packaging, compliance review, and documentation preparation."},
+          {"q": "Can I sell directly to investors?", "a": "You can, but most developers work through our agent network which has pre-qualified investor leads across 15+ countries."}
+        ]
+      },
+      "forLawFirms": {
+        "title": "For Law Firms",
+        "items": [
+          {"q": "How do I add Golden Visa advisory to my practice?", "a": "We offer a partnership model where we handle product structuring and investor matching while you handle the legal filing and regulatory compliance."},
+          {"q": "What regulatory filings are needed?", "a": "Requirements vary by program — SUACE requires DNIT registration and employment contracts; Investor Pass requires proof of qualifying investment and background checks."},
+          {"q": "How do we partner on structuring?", "a": "We provide the investment vehicle design and market positioning. Your firm handles the legal wrappers, compliance filing, and client representation."}
+        ]
+      },
+      "forBanks": {
+        "title": "For Banks & Financial Institutions",
+        "items": [
+          {"q": "What financial products can be Golden Visa-wrapped?", "a": "Securities, fixed-income instruments, investment funds, and structured notes can all qualify under the Investor Pass program. We help design and certify these vehicles."},
+          {"q": "How do I vet an investment vehicle for compliance?", "a": "We provide full due diligence documentation — investment structure, legal opinion, AML/KYC compliance, and regulatory mapping against CONABO and SEPRELAD requirements."},
+          {"q": "What escrow/custody structures are expected?", "a": "International investors expect institutional-grade custody. We advise on appropriate structures including local bank custody, international custodians with PY presence, or regulated trust vehicles."}
+        ]
+      }
+    }
+  },
+  "es": {
+    "entry": {
+      "title": "Bienvenido a Golden Visa Advisory",
+      "subtitle": "Seleccione su idioma y propósito",
+      "languageLabel": "Elija su idioma",
+      "pathLabel": "¿Qué lo trae aquí?",
+      "pathResidency": "🛂 Quiero la Residencia",
+      "pathBusiness": "🏢 Soy una Empresa Paraguaya",
+      "continue": "Continuar",
+      "remember": "Recordar mi elección"
+    },
+    "investor": {
+      "hero": {
+        "title": "Tu puerta a la residencia paraguaya",
+        "subtitle": "A través de la inversión adecuada",
+        "description": "Ayudamos a inversores extranjeros a estructurar inversiones calificadas para programas de residencia paraguaya — desde inmuebles hasta valores, con cumplimiento regulatorio completo.",
+        "cta": "Verifica tu elegibilidad"
+      },
+      "team": {
+        "title": "Quiénes Somos",
+        "description": "Un equipo de expertos en finanzas internacionales, regulación y derecho, conectando activos paraguayos con capital global."
+      },
+      "trackRecord": {
+        "title": "Nuestra Trayectoria",
+        "projects": "Proyectos Estructurados",
+        "capital": "Capital Facilitado",
+        "nationalities": "Nacionalidades Atendidas",
+        "years": "Años de Experiencia",
+        "projectsValue": "50+",
+        "capitalValue": "$200M+",
+        "nationalitiesValue": "15+",
+        "yearsValue": "8+"
+      },
+      "process": {
+        "title": "El Proceso de Golden Visa",
+        "subtitle": "De la consulta a la ciudadanía en 5 pasos",
+        "steps": [
+          {"step": 1, "title": "Seleccione su Vehículo de Inversión", "description": "Analizamos su perfil y recomendamos la inversión óptima — inmuebles, valores o emprendimiento."},
+          {"step": 2, "title": "Estructuración Legal y Due Diligence", "description": "Nuestro equipo legal estructura el vehículo, gestiona el cumplimiento y prepara la documentación."},
+          {"step": 3, "title": "Presente su Solicitud", "description": "Presentamos su solicitud de residencia. Procesamiento: 60–90 días (temporaria) o inmediato (programas permanentes)."},
+          {"step": 4, "title": "Aprobación y Cédula de Residencia", "description": "Una vez aprobado, recibe su cédula. Sin requisitos estrictos de permanencia mínima."},
+          {"step": 5, "title": "Camino a la Ciudadanía", "description": "Después de 3 años de residencia permanente, puede solicitar la ciudadanía paraguaya."}
+        ]
+      },
+      "cta": {
+        "title": "¿Listo para comenzar su viaje?",
+        "subtitle": "Agende una consulta confidencial para discutir sus opciones de residencia.",
+        "cta": "Agendar Consulta"
+      }
+    },
+    "business": {
+      "hero": {
+        "title": "Convierta su negocio en una oportunidad Golden Visa",
+        "subtitle": "Ayudamos a empresas paraguayas a diseñar, estructurar y posicionar productos de inversión para el mercado global de Golden Visa.",
+        "cta": "Agendar una reunión"
+      },
+      "whatIsGV": {
+        "title": "¿Qué es la industria Golden Visa?",
+        "description": "El mercado global de Golden Visa representa más de $25 mil millones anuales. Paraguay está posicionado de forma única: ciudadanía más rápida de América (3 años), sin requisito de permanencia mínima, acceso a Mercosur (260M+ consumidores) y un régimen fiscal favorable para los negocios."
+      },
+      "services": {
+        "title": "Nuestros Servicios",
+        "subtitle": "Cuatro pilares para convertir su negocio en una inversión lista para Golden Visa",
+        "items": [
+          {"icon": "📚", "title": "Aprenda la Industria", "description": "Capacitamos a su equipo sobre el ecosistema Golden Visa — perfiles de inversores, estándares de debida diligencia, cumplimiento internacional."},
+          {"icon": "📊", "title": "Análisis de Mercado", "description": "Identificamos qué segmentos de inversores calzan con su activo. Análisis de brecha vs competidores."},
+          {"icon": "🏗️", "title": "Diseñe el Producto", "description": "Estructuramos su oferta en un vehículo de inversión calificado para Golden Visa. Empaque regulatorio, mínimos, plazos."},
+          {"icon": "🌍", "title": "Posicione y Venda", "description": "Pitch decks, traducción, listado en redes de partners, matching con inversores pre-calificados."}
+        ]
+      },
+      "cta": {
+        "title": "¿Listo para diseñar su producto Golden Visa?",
+        "subtitle": "Exploremos cómo su negocio puede acceder al mercado global de migración por inversión.",
+        "cta": "Agendar una Reunión"
+      }
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "forDevelopers": {
+        "title": "Para Desarrolladores",
+        "items": [
+          {"q": "¿Cómo califica mi proyecto inmobiliario?", "a": "Su proyecto debe cumplir con los montos mínimos de inversión ($150K turismo, $200K inmuebles) y pasar la debida diligencia sobre estatus legal, cronograma y estrategia de salida."},
+          {"q": "¿Qué montos mínimos funcionan?", "a": "Para el Investor Pass, $150K en turismo o $200K en inmuebles/valores. SUACE requiere $70K en 10 años con 5 empleados."}
+        ]
+      },
+      "forLawFirms": {
+        "title": "Para Estudios Jurídicos",
+        "items": [
+          {"q": "¿Cómo añado asesoría Golden Visa a mi práctica?", "a": "Ofrecemos un modelo de partnership donde nosotros manejamos la estructuración y matching de inversores mientras usted maneja los aspectos legales y regulatorios."}
+        ]
+      },
+      "forBanks": {
+        "title": "Para Bancos e Instituciones Financieras",
+        "items": [
+          {"q": "¿Qué productos financieros pueden calificar?", "a": "Valores, instrumentos de renta fija, fondos de inversión y notas estructuradas pueden calificar bajo el Investor Pass."}
+        ]
+      }
+    }
+  }
+}
