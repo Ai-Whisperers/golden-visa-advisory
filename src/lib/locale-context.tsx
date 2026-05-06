@@ -9,6 +9,7 @@ interface LocaleState {
   path: 'investor' | 'business' | null
   setLocale: (l: string) => void
   setPath: (p: 'investor' | 'business') => void
+  reset: () => void
   t: LocalizedContent
   isReady: boolean
 }
@@ -40,11 +41,15 @@ export function LocaleProvider({ children }: { children: ReactNode }) {
       path: p
     }))
   }, [])
+  const reset = useCallback(() => {
+    setPathState(null)
+    localStorage.removeItem('gva-preferences')
+  }, [])
 
   const t = (content as any)[locale] || content.en
 
   return (
-    <LocaleContext.Provider value={{ locale, path, setLocale, setPath, t, isReady: loaded }}>
+    <LocaleContext.Provider value={{ locale, path, setLocale, setPath, reset, t, isReady: loaded }}>
       {children}
     </LocaleContext.Provider>
   )

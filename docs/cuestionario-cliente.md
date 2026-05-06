@@ -1,281 +1,153 @@
-# Cuestionario — Consultora de Golden Visa / Market-Building Advisory
+# Cuestionario Completo — Golden Visa Advisory (Raúl Fretes)
 
-> Para: [Nombre del Cliente / Firma]
-> Fecha: _______________
-> Completado por: _______________
-> Propósito: Este cuestionario nos ayuda a entender su negocio para diseñar
-> una estrategia digital que posicione sus servicios ante dos audiencias:
-> inversores extranjeros y empresas paraguayas.
+> **Para:** Raúl Fretes, Founder & Managing Director
+> **Propósito:** Recopilar toda la información necesaria para transformar su sitio web de una plantilla genérica a la presencia digital autorizada de su firma
+> **Tiempo estimado:** 20-30 minutos
+> **Cómo enviar:** Responda por WhatsApp al número que ya tenemos, o comparta un Google Doc / audio de voz si prefiere
 
 ---
 
-## Bloque 1: Identidad y Posicionamiento
+## ANTES DE EMPEZAR
 
-### 1. Nombre legal de su firma vs nombre comercial
+Su sitio está vivo en goldenvisa.paragu-ai.com con dos caminos:
+1. **🛂 Inversor extranjero** — para quien busca residencia paraguaya
+2. **🏢 Empresa paraguaya** — para empresas que quieren crear productos Golden Visa
 
-- A) Solo nombre legal (`_______________`)
-- B) Solo nombre comercial (`_______________`)
-- C) Ambos, el legal es diferente del comercial
-- D) Todavía no definido
-- E) Prefiero hablarlo directamente
+Actualmente se ve como una plantilla genérica. Para que proyecte la autoridad de su firma, necesito su ayuda con el contenido real.
 
-### 2. Pitch de un párrafo: ¿qué hace su firma?
-
-_Describa en 3-4 líneas, como si se lo explicara a un inversor en un ascensor:_
-
-```
-__________________________________________________________________________
-__________________________________________________________________________
-__________________________________________________________________________
-__________________________________________________________________________
-```
-
-- A) Ya tengo un pitch preparado (lo escribo arriba)
-- B) Prefiero que me ayuden a definirlo
-- C) Lo tengo en mi cabeza, lo conversamos
-
-### 3. ¿Cuál es su mercado objetivo PRINCIPAL?
-
-- A) Empresas paraguayas que necesitan estructurar productos de inversión (lado oferta)
-- B) Inversores extranjeros que buscan residencia (lado demanda)
-- C) Ambos por igual
-- D) Principalmente abogados / agentes Golden Visa como canal indirecto
-- E) Otro: _______________
-
-### 4. ¿Qué regiones generan más consultas hoy?
-
-- A) Estados Unidos / Canadá
-- B) Europa (España, Portugal, Alemania, UK)
-- C) Latinoamérica (Brasil, Argentina, Chile, Colombia, México)
-- D) Medio Oriente / Asia
-- E) Múltiples regiones sin concentración clara
-
-### 5. Presencia legal fuera de Paraguay
-
-- A) Solo Paraguay
-- B) Paraguay + Estados Unidos
-- C) Paraguay + Europa
-- D) Paraguay + múltiples jurisdicciones
-- E) Operamos a través de socios internacionales (no tenemos oficina propia afuera)
+No necesita respuestas perfectas. Un audio de 2-3 minutos por sección o bullets sueltos son suficientes — yo transformo todo en contenido pulido.
 
 ---
 
-## Bloque 2: Servicios
+## SECCIÓN A: DATOS DE CONTACTO (urgente — bloquea producción)
 
-### 6. ¿Cuáles de estos servicios ofrece su firma? (marque todos)
-
-- A) Diseño y estructuración de vehículos de inversión (fondos, fideicomisos, notes)
-- B) Advisory regulatorio para cumplimiento Golden Visa
-- C) Market positioning / branding de oportunidades de inversión paraguayas
-- D) Due diligence y certificación de proyectos
-- E) Network de partners internacionales (immigration agents, family offices, wealth managers)
-
-### 7. ¿Qué servicio es su CABALLO DE BATALLA (el que más vende)?
-
-- A) Estructuración de productos (fondos, fideicomisos)
-- B) Advisory regulatorio y compliance
-- C) Conexión con inversores / matchmaking
-- D) Consultoría estratégica para empresas (aprender el mercado)
-- E) Es variado — no tenemos un servicio dominante
-
-### 8. ¿Cuántos proyectos o clientes han asesorado hasta hoy?
-
-- A) 0–3 (recién lanzando)
-- B) 4–10
-- C) 11–25
-- D) 26–50
-- E) 50+
-
-### 9. ¿Tienen casos de éxito documentados?
-
-- A) Sí, 1–2 casos concretos que podemos mostrar públicamente
-- B) Sí, múltiples casos
-- C) Tenemos referencias pero no casos públicos
-- D) Todavía no
-- E) Preferimos mantener confidencialidad total
-
-### 10. ¿Cuál es el TICKET PROMEDIO de un proyecto? (honorarios por proyecto)
-
-- A) Menos de USD 5,000
-- B) USD 5,000–15,000
-- C) USD 15,000–50,000
-- D) USD 50,000+
-- E) Muy variable / depende del proyecto
+| # | Pregunta | Ejemplo / Opciones |
+|---|----------|--------------------|
+| A1 | **¿Cuál es su número de WhatsApp profesional?** | El sitio tiene +595 981 000 000 (placeholder). ¿Cuál es el real? |
+| A2 | **¿Email de contacto profesional?** | ejemplo@goldenvisa.com.py |
+| A3 | **¿Dirección física de la oficina?** | Calle, número, ciudad, país |
+| A4 | **¿Teléfono fijo (si tiene)?** | +595 21 XXX XXXX |
+| A5 | **¿Horario de atención?** | Ej: Lun-Vie 9:00-18:00 PY TZ |
 
 ---
 
-## Bloque 3: Inversores y Productos
+## SECCIÓN B: EQUIPO (fotos + perfiles)
 
-### 11. ¿Qué perfil de inversor extranjero representa su foco principal?
+Cada persona necesita: foto profesional, nombre completo, cargo, breve bio.
 
-- A) High-net-worth individuals ($1M+) buscando segunda residencia
-- B) Familias buscando reubicación y educación
-- C) Empresarios buscando expansión regional
-- D) Jubilados con capital para invertir
-- E) Inversores institucionales (family offices, fondos de inversión)
-
-### 12. ¿Qué vehículos de inversión estructuran con más frecuencia?
-
-- A) Inmobiliario (desarrollos, lotes, propiedades comerciales)
-- B) Deuda privada / bonos / notes
-- C) Fondos de inversión / private equity
-- D) Agroindustria / commodities / ganadería
-- E) Multiples — según el proyecto
-
-### 13. ¿Qué monto MÍNIMO de inversión busca típicamente?
-
-- A) Menos de $100,000
-- B) $100,000–$200,000
-- C) $200,000–$500,000
-- D) $500,000+
-- E) No tenemos mínimo definido
-
-### 14. ¿Tienen inversores BRASILEÑOS actualmente?
-
-- A) Sí, es nuestro mercado más fuerte
-- B) Sí, pero no el principal
-- C) No, pero es una prioridad
-- D) No, y no es prioridad
-- E) Estamos explorando
-
-### 15. ¿Qué contendido educativo SERÍA MÁS VALIOSO para sus leads?
-
-- A) Guía paso a paso del proceso Golden Visa Paraguay
-- B) Análisis de mercado: ¿por qué Paraguay ahora?
-- C) Casos de estudio de proyectos estructurados (anónimos)
-- D) Comparativa Paraguay vs otros países Golden Visa
-- E) Webinars / whitepapers descargables
+| # | Pregunta |
+|---|----------|
+| B1 | **¿Puede enviarme su foto de perfil profesional?** (o una selfie de buena calidad con fondo neutro) |
+| B2 | **¿Nombre completo para el sitio?** | Raúl Fretes, o quiere nombre + apellido completo |
+| B3 | **¿Cargo exacto?** | Founder & Managing Director, o prefiere algo distinto |
+| B4 | **¿Breve bio (3-4 líneas)?** | Años de experiencia, expertise principal, logro destacado |
+| B5 | **¿Hay otras 2-3 personas en el equipo para incluir?** | Names + roles + fotos (si no hay fotos, podemos usar iconos mientras tanto) |
+| B6 | **¿LinkedIn URL? (la suya y del equipo)** | linkedin.com/in/raul-fretes-... |
 
 ---
 
-## Bloque 4: Competencia y Diferenciación
+## SECCIÓN C: CASOS DE ÉXITO (credibilidad)
 
-### 16. ¿Quiénes son sus principales competidores?
+Los testimonios actuales son genéricos ("Carlos M.", "Sarah K.") sin fotos. Para que un inversor confíe, necesita ver resultados reales.
 
-- A) Firmas de abogados locales con práctica de inversión extranjera
-- B) Consultoras internacionales con presencia en Paraguay
-- C) Agentes Golden Visa globales (Henley, Arton, etc.)
-- D) Bancos de inversión / wealth managers locales
-- E) No tenemos competencia directa identificada
-
-### 17. ¿Cuál es su PRINCIPAL ventaja competitiva?
-
-- A) Conocimiento profundo del ecosistema regulatorio paraguayo
-- B) Red de contactos con desarrolladores y empresarios locales
-- C) Experiencia internacional: sabemos lo que busca un inversor global
-- D) Capacidad de estructurar productos innovadores (nadie más los ofrece)
-- E) Otro: _______________
-
-### 18. ¿Tienen alianzas formales con agentes Golden Visa en el exterior?
-
-- A) Sí, tenemos acuerdos con agentes en 3+ países
-- B) Sí, tenemos 1–2 socios
-- C) Estamos en conversaciones
-- D) No, pero es parte del plan
-- E) No, trabajamos directo con inversores
+| # | Pregunta | Ejemplo |
+|---|----------|---------|
+| C1 | **¿Puede compartir 2-3 casos reales de clientes?** (con permiso para publicar) | Cliente: tipo de inversión, monto, tiempo de procesamiento, resultado |
+| C2 | **¿Tiene fotos o testimonios escritos por clientes reales?** | Captura de WhatsApp, email, o audio |
+| C3 | **¿Algún proyecto emblemático que pueda destacar con números reales?** | "Estructuramos un fondo de $5M para un desarrollo inmobiliario en CDE" |
+| C4 | **¿El track record "50+ proyectos, $200M+" es verificable públicamente?** | Si no, prefiero usar números más conservadores pero reales |
 
 ---
 
-## Bloque 5: Website y Presencia Digital
+## SECCIÓN D: SOCIAL PROOF (logos + afiliaciones)
 
-### 19. ¿Tienen sitio web hoy?
-
-- A) No, empezamos de cero
-- B) Sí, pero es muy básico / desactualizado
-- C) Sí, tiene info general pero necesita reforma completa
-- D) Sí, funciona bien pero queremos mejorarlo
-- E) Solo LinkedIn
-
-### 20. ¿Qué idiomas necesita el sitio?
-
-- A) Solo español
-- B) Español + Inglés
-- C) Español + Inglés + Portugués
-- D) Multilingüe (ES + EN + PT + FR + otros)
-- E) Principalmente inglés, español secundario
-
-### 21. Funcionalidades prioritarias (marque 3)
-
-- A) Páginas institucionales (nosotros, servicios, equipo, contacto)
-- B) Blog / recursos educativos descargables
-- C) Portafolio de proyectos
-- D) Calculadora de inversión / retorno estimado
-- E) Formulario de lead con clasificación (inversor vs empresa)
-
-### 22. ¿Tienen identidad visual definida?
-
-- A) Sí, tenemos logo + paleta + tipografía definidos
-- B) Tenemos logo pero falta el resto
-- C) Tenemos idea general pero nada formal
-- D) No tenemos nada — necesitamos diseño completo
-- E) Tenemos elementos pero queremos rediseñar
+| # | Pregunta | Ejemplo |
+|---|----------|---------|
+| D1 | **¿Logos de firmas de abogados con las que trabajan?** | Envíe archivos PNG/SVG o nombres para buscar |
+| D2 | **¿Logos de agentes de inmigración / wealth managers partners?** | Mismos |
+| D3 | **¿Pertenece a alguna asociación profesional?** | Ej: Cámara de Comercio Paraguay, IMC, etc. |
+| D4 | **¿Tienen licencia o registro como advisory financiero?** | Número de registro, ente regulador |
+| D5 | **¿Tienen presencia legal en Estados Unidos o Europa?** | Subsidiaria, partnership, o solo Paraguay + red global |
 
 ---
 
-## Bloque 6: Operativos
+## SECCIÓN E: REDES SOCIALES Y PRESENCIA DIGITAL
 
-### 23. Dominio registrado
-
-- A) Sí, y está configurado: `_______________`
-- B) Sí, pero no en uso
-- C) No, necesitamos registrar uno
-- D) Tengo dominio pero quiero cambiarlo
-- E) Sugieran uno
-
-### 24. Casilla de correo profesional (para el sitio)
-
-- A) Ya tengo: `_______________`
-- B) Necesito crear una (Gmail Workspace / Outlook / propio)
-- C) Usaré mi correo personal temporalmente
-- D) No lo hemos pensado
-- E) Lo decidimos después
-
-### 25. Contacto principal para el proyecto
-
-- A) Yo mismo / el fundador: `_______________`
-- B) Un miembro del equipo: `_______________`
-- C) Un asistente / community manager
-- D) Un tercero (agencia, diseñador)
-- E) Todavía indefinido
-
-### 26. Plazo ideal para tener el sitio en línea
-
-- A) Urgente — menos de 2 semanas
-- B) Pronto — 2 a 4 semanas
-- C) Normal — 1 a 2 meses
-- D) Sin prisa — más de 2 meses
-- E) Solo explorando opciones / sin deadline
+| # | Pregunta |
+|---|----------|
+| E1 | **¿LinkedIn de la firma?** (company page URL) |
+| E2 | **¿LinkedIn personal?** (ya preguntado arriba) |
+| E3 | **¿Facebook / Instagram?** (útil para audiencia brasileña) |
+| E4 | **¿Google Business Profile?** (reclámelo si no — aparece en Google Maps) |
+| E5 | **¿YouTube / Twitter / TikTok?** (contenido educativo) |
+| E6 | **¿Web actual o landing page previa?** (para migrar contenido útil) |
 
 ---
 
-## Pregunta Abierta
+## SECCIÓN F: AUDIENCIA Y MERCADO
 
-### 27. ¿Hay algo más que debamos saber sobre su firma, su visión, o lo que quiere proyectar con este sitio?
+| # | Pregunta | Opciones |
+|---|----------|----------|
+| F1 | **¿Qué país genera más leads hoy?** | Brasil / USA / Europa / Medio Oriente / Múltiples |
+| F2 | **¿Qué perfil de inversor es su cliente ideal?** | HNWI ($1M+) / Familias / Empresarios / Jubilados / Institucionales |
+| F3 | **¿Cuál es el ticket de inversión típico que manejan?** | $70K SUACE / $150-200K Investor Pass / $500K+ / Variable |
+| F4 | **¿Trabajan más con empresas (lado oferta) o inversores (lado demanda)?** | 50/50 / Mayoría oferta / Mayoría demanda |
+| F5 | **¿Qué regiones de Brasil son su foco principal?** | São Paulo / Río / Sur / Nordeste / Todo Brasil |
+| F6 | **¿Qué volumen de consultas reciben por mes?** | 0-5 / 5-15 / 15-50 / 50+ |
 
-```
-__________________________________________________________________________
-__________________________________________________________________________
-__________________________________________________________________________
-__________________________________________________________________________
-__________________________________________________________________________
-```
+---
+
+## SECCIÓN G: CONTENIDO Y BLOG
+
+Un blog de 8-12 artículos es clave para SEO y para que los inversores nos encuentren en Google.
+
+| # | Pregunta | Ejemplo |
+|---|----------|---------|
+| G1 | **¿Tiene contenido escrito existente?** | PDFs, notas, presentaciones que podamos convertir en artículos |
+| G2 | **¿Temas que quiere cubrir en el blog?** | Regulatory updates / Market comparisons / How-to guides / Case studies / Lifestyle in Paraguay |
+| G3 | **¿Tiene material descargable (whitepapers, guías)?** | "Guía Completa de la Golden Visa Paraguaya" PDF |
+| G4 | **¿Alguna publicación o artículo donde haya sido citado/entrevistado?** | Para enlazar como autoridad externa |
 
 ---
 
-## Resumen Rápido para el Cliente
+## SECCIÓN H: PRODUCTOS Y PRECIOS (para la calculadora + tabla comparativa)
 
-| Bloque | Preguntas |
-|--------|-----------|
-| Identidad | 1–5 |
-| Servicios | 6–10 |
-| Inversores y Productos | 11–15 |
-| Competencia | 16–18 |
-| Website | 19–22 |
-| Operativos | 23–26 |
-| Abierta | 27 |
-
-_Tiempo estimado: 10–15 minutos._
+| # | Pregunta | Información actual en el sitio | ¿Correcto? |
+|---|----------|-------------------------------|------------|
+| H1 | **Residencia Temporaria: monto mínimo?** | "Proof of income / solvency" | ✅ / ❌ / Corregir: _____ |
+| H2 | **SUACE: $70K en 10 años con 5 empleados?** | ✅ / ❌ | |
+| H3 | **Investor Pass: $150K turismo / $200K inmuebles?** | ✅ / ❌ (recién lanzado, ¿confirmado?) | |
+| H4 | **Tiempo de procesamiento típico por programa?** | Temp: 60-90 días / SUACE: 90d-6m / Investor Pass: TBC | |
+| H5 | **¿Ofrecen estructuración de fideicomisos?** | Sí / No / A veces (cuándo) | |
+| H6 | **¿Trabajan con cripto / stablecoins como vehículo?** | Sí / No / En evaluación | |
+| H7 | **Honorarios típicos por estructuración?** | % del deal / Flat fee / Varía | (opcional, puede ser confidencial) |
 
 ---
-*Gracias por completar el cuestionario. Sus respuestas nos permitirán diseñar
-un sitio web que hable el lenguaje correcto para cada audiencia.*
+
+## SECCIÓN I: PREGUNTAS ABIERTAS
+
+| # | Pregunta |
+|---|----------|
+| I1 | **¿Cómo le gustaría que un inversor describa su firma después de visitar el sitio?** (3 palabras) |
+| I2 | **¿Cuál es su diferenciador #1 frente a Henley & Partners o firmas de abogados locales?** |
+| I3 | **¿Hay algo en el sitio actual que NO le guste y quiera cambiar?** |
+| I4 | **¿Cuál es su objetivo principal con el sitio web?** (Marca / Leads / Educación / Todos) |
+| I5 | **¿Algo más que quiera compartir?** |
+
+---
+
+## RESUMEN: LO QUE YO NECESITO MÍNIMO PARA EMPEZAR
+
+Si quiere priorizar, envíeme solo estos 5 items:
+
+1. **Número de WhatsApp real** (A1 — bloquea todas las CTAs)
+2. **Una foto suya** (o selfie, la edito) + bio corta (B1-B4)
+3. **2-3 casos de clientes reales** con números, aunque sean anónimos (C1)
+4. **Logos de partners** (D1, D2 — mándeme lo que tenga aunque sea captura de WhatsApp)
+5. **Confirmación de los montos de inversión** (H2, H3)
+
+Con eso, puedo transformar el sitio de un template genérico a la presencia digital de su firma.
+
+---
+
+*Gracias, Raúl. Una vez que me envíe esto, tendré el sitio listo en 1-2 días hábiles. Cualquier duda, respóndame por este mismo chat.*
