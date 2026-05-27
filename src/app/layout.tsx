@@ -2,6 +2,8 @@ import type { Metadata } from "next"
 import "./globals.css"
 import { EntryModal } from "@/components/EntryModal"
 import { LocaleProvider } from "@/lib/locale-context"
+import { CookieConsent } from "@ai-whisperers/seo"
+import { WhatsAppFloat } from "@ai-whisperers/whatsapp"
 
 export const metadata: Metadata = {
   title: "Golden Visa Advisory — Paraguai",
@@ -21,6 +23,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <EntryModal />
           {children}
         </LocaleProvider>
+      
+        <WhatsAppFloat />
+        <CookieConsent />
       </body>
     </html>
   )
